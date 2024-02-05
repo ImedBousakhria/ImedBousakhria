@@ -1,7 +1,6 @@
 ### Hi there, I'm Imed Bousakhria
 - 🚀 Computer science student and enthusiastic about Data Science, Machine Learning, and Artificial Intelligence
 - 👯 I’m looking to collaborate on web development and data science projects 
-- 💬 Ask me about web development, data science, or anything tech-related!
 - 📫 How to reach me: i_Bousakhria@estin.dz
 
 <h3 align="left">Languages and Tools:</h3>

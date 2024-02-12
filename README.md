@@ -19,7 +19,7 @@
 
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImedBousakhria&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImedBousakhria&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImedBousakhria&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImedBousakhria&theme=dark&hide_border=false)<br>
 

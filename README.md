@@ -3,6 +3,8 @@
 - 🔎 I’m looking to collaborate on web development and data science projects .
 - 📫 How to reach me: i_bousakhria@estin.dz.
 
+[![committers.top badge](https://user-badge.committers.top/algeria/ImedBousakhria.svg)](https://user-badge.committers.top/algeria/ImedBousakhria)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
